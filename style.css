@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /* Stretches to full height of screen */
+  min-height: 100vh;
+}
